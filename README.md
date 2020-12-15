@@ -1,6 +1,6 @@
 // Contracts deployed addresses
 ```angular2html
-"mainnet": {
+"mock-mainnet": {
     "lpToken": "0x668eE58e229A040eB973085fB19860787F8ED24f",
     "linkToken": "0x514910771af9ca656af840dff83e8264ecf986ca",
     "uniswapRouter": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
